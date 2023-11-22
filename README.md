@@ -5,7 +5,7 @@ This is a simple web application for introducing and selling pets. Users can add
 
 ## Demo
 
-Visit the [Pet Shop Website](https://your-github-username.github.io/your-repo-name) for a live demo.
+Visit the [Pet Shop Website](https://suanon.com.vn) for a live demo.
 
 ## Installation
 
